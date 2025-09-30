@@ -1,0 +1,3 @@
+﻿  MyFirstApplication.cpp
+C:\Users\m018410o\source\repos\MyFirstApplication\MyFirstApplication\MyFirstApplication.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MyFirstApplication.vcxproj -> C:\Users\m018410o\source\repos\MyFirstApplication\x64\Debug\MyFirstApplication.exe

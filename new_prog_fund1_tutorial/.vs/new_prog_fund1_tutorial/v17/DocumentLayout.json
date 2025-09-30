@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m018410o\\source\\repos\\new_prog_fund1_tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E661851-B831-471E-B5DD-2187CCD2C476}|new_prog_fund1_tutorial\\new_prog_fund1_tutorial.vcxproj|C:\\Users\\m018410o\\source\\repos\\new_prog_fund1_tutorial\\new_prog_fund1_tutorial\\new_prog_fund1_tutorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E661851-B831-471E-B5DD-2187CCD2C476}|new_prog_fund1_tutorial\\new_prog_fund1_tutorial.vcxproj|solutionrelative:new_prog_fund1_tutorial\\new_prog_fund1_tutorial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new_prog_fund1_tutorial.cpp",
+              "DocumentMoniker": "C:\\Users\\m018410o\\source\\repos\\new_prog_fund1_tutorial\\new_prog_fund1_tutorial\\new_prog_fund1_tutorial.cpp",
+              "RelativeDocumentMoniker": "new_prog_fund1_tutorial\\new_prog_fund1_tutorial.cpp",
+              "ToolTip": "C:\\Users\\m018410o\\source\\repos\\new_prog_fund1_tutorial\\new_prog_fund1_tutorial\\new_prog_fund1_tutorial.cpp",
+              "RelativeToolTip": "new_prog_fund1_tutorial\\new_prog_fund1_tutorial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T12:30:29.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

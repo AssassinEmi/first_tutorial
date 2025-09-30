@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m018410o\\source\\repos\\MyFirstApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C839FACC-A14F-4B30-A3B2-0D9C519CA86C}|MyFirstApplication\\MyFirstApplication.vcxproj|C:\\Users\\m018410o\\source\\repos\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C839FACC-A14F-4B30-A3B2-0D9C519CA86C}|MyFirstApplication\\MyFirstApplication.vcxproj|solutionrelative:MyFirstApplication\\MyFirstApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyFirstApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\m018410o\\source\\repos\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.cpp",
+              "RelativeDocumentMoniker": "MyFirstApplication\\MyFirstApplication.cpp",
+              "ToolTip": "C:\\Users\\m018410o\\source\\repos\\MyFirstApplication\\MyFirstApplication\\MyFirstApplication.cpp",
+              "RelativeToolTip": "MyFirstApplication\\MyFirstApplication.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-30T11:14:32.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
